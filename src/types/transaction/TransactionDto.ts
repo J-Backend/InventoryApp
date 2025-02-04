@@ -7,4 +7,5 @@ export interface TransactionDto {
   cost: number;
   user: string;
   product: string;
+  entryDate:Date
 }
